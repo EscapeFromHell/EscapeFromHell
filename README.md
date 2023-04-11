@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EscapeFromHell
 - 📫 How to reach me:
-- telegram: @kirill_pugachev_1997
+- telegram: @pugachev_kirill_1997
 - kirillpugachev1997@gmail.com
 <!---
 EscapeFromHell/EscapeFromHell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
